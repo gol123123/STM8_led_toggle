@@ -1,0 +1,19 @@
+
+	To obtain a license for this product, send the informations below to:
+
+			     stm8_Free@cosmic.fr
+
+Registration Information for:
+User: ornstein
+Company: ggg
+Email: sasha_tokaev@mail.ru
+Address: 
+Country: 
+Phone: 
+		Product Information
+
+PRODUCT=LXSTM8FSE_2021
+HOSTNAME=DESKTOP-AUBLV10
+USER=ornstein
+HOSTID="c0185035c48f c423608a37d9"
+DISK_SERIAL_NUM=5689f48a
